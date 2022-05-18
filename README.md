@@ -1,7 +1,7 @@
 ##### Java Application
 # Application designed to record the sales of a business.
 
-### Download "Executable.jar" to test the app
+### <p align=center color=blue> Download "Executable.jar" to test the app </p>
 
 ### ·Diagrama UML·
 
